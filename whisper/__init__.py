@@ -29,7 +29,7 @@ _MODELS = {
     "large": "https://openaipublic.azureedge.net/main/whisper/models/e5b1a55b89c1367dacf97e3e19bfd829a01529dbfdeefa8caeb59b3f1b81dadb/large-v3.pt",
     "large-v3-turbo": "https://openaipublic.azureedge.net/main/whisper/models/aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a/large-v3-turbo.pt",
     "turbo": "https://openaipublic.azureedge.net/main/whisper/models/aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a/large-v3-turbo.pt",
-    "breeze-asr-25": "https://huggingface.co/MediaTek-Research/Breeze-ASR-25/resolve/main/whisper-github/45df9c218f2037858b44e3af693bd063ad05bccc09eb0fb7a9a8c035859def3f/breeze-asr-25.pt"
+    "breeze-asr-25": "https://huggingface.co/MediaTek-Research/Breeze-ASR-25/resolve/main/whisper-github/9c94a3554ff4f0de83494e2ed7ba5826efa74bd87955c034b4d0fd681746b690/breeze-asr-25.pt"
 }
 
 # base85-encoded (n_layers, n_heads) boolean arrays indicating the cross-attention heads that are
